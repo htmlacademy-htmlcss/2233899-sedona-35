@@ -88,3 +88,72 @@ body {
   height: 42px;
   color: #333333;
 }
+.advantages-title-nice{
+  font-family: 'PT Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+  text-align: center;
+  text-transform: uppercase;
+  width: 175px;
+  height: 56px;
+  color: black;
+}
+.advantages-description-1{
+  font-family: 'PT Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+  text-align: center;
+  width: 230px;
+  height: 42px;
+  color: #333333;
+}
+.advantages-title-tyrest{
+  font-family: 'PT Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+  text-align: center;
+  text-transform: uppercase;
+  width: 175px;
+  height: 56px;
+  color: black;
+}
+.advantages-description-all{
+  font-family: 'PT Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+  width: 230px;
+  height: 42px;
+  text-align: center;
+  color: #333333;
+}
+.advantages-title-most{
+  font-family: 'PT Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+  text-align: center;
+  text-transform: uppercase;
+  width: 175px;
+  height: 56px;
+  color: white;
+}
+.advantages-description-if{
+  font-family: 'PT Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+  text-align: center;
+  width: 230px;
+  height: 63px;
+  color: white;
+}
