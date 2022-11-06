@@ -4,40 +4,20 @@ body {
   font-style: normal;
 }
 
-.navigation-link-current{
-
-  font-weight: 700;
-  font-size: 20px;
-  line-height: 24px;
-  width: 68px;
-  height: 24px;
-  color:black
-}
-.navigation-link{
-
-  font-weight: 700;
-  font-size: 20px;
-  line-height: 24px;
-  width: 82px;
-  height: 24px;
-  color:black;
-}
 .navigation-link-hostel{
 
   font-weight: 700;
   font-size: 20px;
   line-height: 24px;
-  width: 93px;
-  height: 24px;
-  color: black;
+
+  color:black
 }
 .navigation-link-want{
 
   font-weight: 700;
   font-size: 16px;
   line-height: 20px;
-  width: 92px;
-  height: 20px;
+
   color: white;
 }
 .advantages-title-white{
@@ -47,8 +27,8 @@ body {
   line-height: 28px;
   text-align: center;
   text-transform: uppercase;
-  width: 175px;
-  height: 56px;
+
+
   color: white;
 }
 .advantages-description-white{
@@ -57,8 +37,8 @@ body {
   font-size: 18px;
   line-height: 21px;
   text-align: center;
-  width: 230px;
-  height: 63px;
+
+
   color: white;
 }
 .advantages-title{
@@ -68,8 +48,8 @@ body {
   line-height: 28px;
   text-align: center;
   text-transform: uppercase;
-  width: 175px;
-  height: 56px;
+
+
   color: black;
 }
 .advantages-description-near{
@@ -78,7 +58,7 @@ body {
   font-size: 18px;
   line-height: 21px;
   text-align: center;
-  width: 230px;
-  height: 42px;
+
+
   color: #333333;
 }
