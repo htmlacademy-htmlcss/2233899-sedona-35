@@ -1,40 +1,72 @@
 body {
-  background-color:white;
+  background-color: rgb(195, 229, 249);
+  color: white;
   font-family: 'PT Sans';
   font-style: normal;
   font-weight: 700;
-  color: white;
+  font-size: 24px;
+  line-height: 28px;
 }
 
-.navigation-link-hostel{
+.navigation-link {
+  color: #000000;
   font-size: 20px;
   line-height: 24px;
+}
+
+.navigation-link-want {
+  color: #ffffff;
+}
+
+.visually-hidden-1 {
+  color: #756157;
+}
+
+.page-container {
+  font-size: 30px;
+  line-height: 36px;
+  color: #000000;
   text-align: center;
-  color:black
-}
-.navigation-link-want{
-  font-size: 16px;
-  line-height: 20px;
-}
-.advantages-title-white{
-  font-size: 24px;
-  line-height: 28px;
   text-transform: uppercase;
 }
-.advantages-description-white{
-  font-weight: 400;
-  font-size: 18px;
-  line-height: 21px;
-}
-.advantages-title{
-  font-size: 24px;
-  line-height: 28px;
-  text-transform: uppercase;
-  color: black;
-}
-.advantages-description-near{
-  font-weight: 400;
-  font-size: 18px;
-  line-height: 21px;
+
+.main-text {
   color: #333333;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 26px;
+}
+
+.advantages-title {
+  font-size: 24px;
+  line-height: 28px;
+  color: #000000;
+}
+
+.advantages-description {
+  color: #333333;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+}
+
+.advantages-description-1 {
+  color: #ffffff;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+}
+
+.page-container-1 {
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 36px;
+  text-align: center;
+}
+
+.advantages-description-2 {
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 26px;
 }
