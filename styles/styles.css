@@ -1,0 +1,119 @@
+body {
+  background-color: rgb(195, 229, 249);
+  color: white;
+  font-family: 'PT Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+}
+
+.navigation-link {
+  text-decoration: 0;
+  color: #000000;
+  font-size: 20px;
+  line-height: 24px;
+}
+
+.navigation-link-want {
+  color: #ffffff;
+}
+
+.visually-hidden-1 {
+  color: #756157;
+}
+
+.page-container {
+  font-size: 30px;
+  line-height: 36px;
+  color: #000000;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.main-text {
+  color: #333333;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 26px;
+}
+
+.advantages-title {
+  font-size: 24px;
+  line-height: 28px;
+  color: #000000;
+}
+
+.advantages-description {
+  color: #333333;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+}
+
+.advantages-description-1 {
+  color: #ffffff;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+}
+
+.page-container-1 {
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 36px;
+  text-align: center;
+}
+
+.advantages-description-2 {
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 26px;
+}
+
+.footer-call {
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 40px;
+  color: #000000;
+
+}
+
+.button-1 {
+  font-size: 20px;
+  line-height: 36px;
+  color: #FFFFFF;
+}
+
+button {
+  background: #82B3D3;
+}
+
+button.button-2 {
+  background: #756157;
+}
+
+.button-2 {
+  font-size: 20px;
+  line-height: 36px;
+  align-items: center;
+  text-align: center;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+
+button.want {
+  background: #756157;
+}
+
+
+.want {
+  font-size: 16px;
+  line-height: 20px;
+  color: #FFFFFF;
+}
+
+button.navigation-link{
+  background-color: #FFFFFF;
+}
