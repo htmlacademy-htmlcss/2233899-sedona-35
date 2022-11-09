@@ -9,6 +9,7 @@ body {
 }
 
 .navigation-link {
+  text-decoration: 0;
   color: #000000;
   font-size: 20px;
   line-height: 24px;
@@ -69,4 +70,50 @@ body {
   font-weight: 400;
   font-size: 22px;
   line-height: 26px;
+}
+
+.footer-call {
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 40px;
+  color: #000000;
+
+}
+
+.button-1 {
+  font-size: 20px;
+  line-height: 36px;
+  color: #FFFFFF;
+}
+
+button {
+  background: #82B3D3;
+}
+
+button.button-2 {
+  background: #756157;
+}
+
+.button-2 {
+  font-size: 20px;
+  line-height: 36px;
+  align-items: center;
+  text-align: center;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+
+button.want {
+  background: #756157;
+}
+
+
+.want {
+  font-size: 16px;
+  line-height: 20px;
+  color: #FFFFFF;
+}
+
+button.navigation-link{
+  background-color: #FFFFFF;
 }
