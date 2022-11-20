@@ -1,0 +1,390 @@
+@font-face {
+  font-family: "PT Sans";
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts/pt-sans_regular.woff2) format("woff2");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "PT Sans";
+  font-style: normal;
+  font-weight: 700;
+  src: url(../fonts/pt-sans_bold.woff2) format("woff2");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "PT Sans";
+  font-style: italic;
+  font-weight: 400;
+  src: url(../fonts/pt-sans_italic.woff2) format("woff2");
+}
+
+@font-face {
+  font-family: "PT Sans";
+  font-style: italic;
+  font-weight: 400;
+  src: url(../fonts/pt-sans_bold-italic.woff2) format("woff2");
+  font-display: swap;
+}
+
+html {
+  width: 100%;
+}
+
+body {
+  font-family: "PT Sans", sans-serif;
+  font-size: 24px;
+  line-height: 28px;
+  color: #000000;
+  background-color: #93e3f3;
+}
+
+.page-header {
+  display: flex;
+  justify-content: space-between;
+  color: #000000;
+  background-color: #ffffff;
+}
+
+.navigation {
+  display: flex;
+  width: 940px;
+  margin: 0 auto;
+}
+
+.navigation-list {
+  width: 430px;
+  margin: 0;
+  padding: 0;
+}
+
+.navigation-user {
+  max-width: 170px;
+  margin-left: auto;
+}
+
+.navigation-link {
+  font-weight: 700;
+  text-align: center;
+  font-size: 20px;
+  line-height: 24px;
+  color: #000000;
+  text-decoration: none;
+  text-transform: capitalize;
+}
+
+.want {
+  color: #ffffff;
+  background-color: #756157;
+  font-size: 16px;
+  line-height: 20px;
+  text-transform: uppercase;
+}
+
+.main-container {
+  flex-grow: 1;
+}
+
+
+.Hello {
+  text-align: center;
+}
+
+
+.nav-hostel {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+}
+
+.main-catalog-1 {
+  color: #ffffff;
+}
+
+.button-4 {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+
+.main-catalog-button-4 {
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  text-transform: uppercase;
+  color: #ffffff;
+  background-color: #82B3D3;
+}
+
+.main-catalog-button-5 {
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  text-transform: uppercase;
+  color: #ffffff;
+  background-color: #756157;
+}
+
+.Hostel-Sedona-1 {
+  margin-left: 70px;
+  font-weight: 700;
+  font-size: 60px;
+  line-height: 78px;
+  color: #ffffff;
+}
+
+.Hostel-Sedona {
+  margin-left: 70px;
+  font-size: 30px;
+  line-height: 36px;
+  text-transform: uppercase;
+}
+
+.Hostel-mone {
+  display: flex;
+  justify-content: space-around;
+}
+
+.main-catalog-button-1 {
+
+  padding-right: 26px;
+  padding-left: 26px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+
+  font-size: 16px;
+  line-height: 20px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #ffffff;
+  background-color: #756157;
+}
+
+.main-catalog-button-2 {
+  padding-right: 20px;
+  padding-left: 20px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+
+  font-size: 16px;
+  line-height: 20px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #ffffff;
+  background-color: #82B3D3;
+}
+
+.main-catalog-button-3 {
+  padding-right: 18px;
+  padding-left: 18px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+
+  font-size: 16px;
+  line-height: 20px;
+  text-transform: uppercase;
+  color: #ffffff;
+  background-color: #7DB54F;
+}
+
+
+
+.catalog-hostel {
+  display: flex;
+  justify-content: space-around;
+}
+
+.catalog-hostel-1 {
+  margin-left: 90px;
+}
+
+.main-logo {
+  color: #000000;
+  background-image: url("images/welcom.ipg");
+}
+
+.main-text {
+  text-transform: none;
+  font-size: 22px;
+  line-height: 26px;
+}
+
+.advantagest-list {
+  margin: 0;
+  padding: 0;
+}
+
+
+.advantages-item-1 {
+  color: #ffffff;
+}
+
+.left {
+  margin-left: auto;
+}
+
+.advantages-picture {
+  text-transform: none;
+}
+
+.no-big {
+  text-align: center;
+  display: flex;
+  justify-content: space-around;
+}
+
+.Eat {
+  text-align: center;
+  margin-left: 85px;
+  margin-right: 85px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.advantages-description {
+  text-transform: none;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+}
+
+.button-2 {
+  font-size: 20px;
+  line-height: 36px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #ffffff;
+  background: #756157;
+}
+
+.page-container-1 {
+  margin-left: 85px;
+  margin-right: 85px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.advantages-description-2 {
+  font-size: 22px;
+  line-height: 26px;
+  text-transform: none;
+}
+
+.subscribe-description {
+  color: #ffffff;
+}
+
+.advantages-subscribe-description-2 {
+  font-size: 22px;
+  line-height: 26px;
+  text-transform: none;
+  color: #ffffff;
+}
+
+.page-container-2 {
+  text-align: center;
+}
+
+.page-container-3 {
+  text-align: center;
+  color: #000000;
+}
+
+.main-catalog-2 {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+  color: #000000;
+}
+
+.main-catalog-3 {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+  color: #333333
+}
+
+.main-catalog-4 {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+  color: #333333;
+}
+
+.black-1 {
+  color: #000000;
+  text-transform: uppercase;
+}
+
+.black-2 {
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 26px;
+  color: #333333;
+}
+
+.button-1 {
+
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  font-size: 20px;
+  line-height: 36px;
+
+  text-transform: uppercase;
+  color: #ffffff;
+  background: #82B3D3;
+}
+
+.subscribe {
+  display: flex;
+  padding-left: 258px;
+  padding-right: 258px;
+  padding-top: 258.86px;
+  padding-bottom: 104px;
+}
+
+.subscribe-1 {
+
+  padding-left: 20px;
+  padding-right: 345px;
+  padding-top: 14px;
+  padding-bottom: 14px;
+  font-size: 18px;
+  line-height: 24px;
+
+}
+
+.Vk {
+  display: flex;
+  justify-content: space-around;
+  max-width: 200px;
+
+}
+
+.nomber .footer-call {
+  text-align: center;
+  color: #000000;
+  text-decoration: none;
+}
+
+.htmlacademy {
+  margin-right: 800px;
+  color: #000000;
+  text-decoration: none;
+}
